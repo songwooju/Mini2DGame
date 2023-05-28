@@ -1,2 +1,0 @@
-# MiniRPG
-for TeamProject Assignment
